@@ -1,1 +1,1 @@
-# Mobile-Sales-Dashboard
+This Power BI dashboard tracks mobile sales performance across time, models, and payment methods. It’s designed to support business decisions by comparing current sales with the same period last year.
